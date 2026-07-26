@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  i usually afk in Safe VN. don't be shy, come c+h w/ me! :3
+  i usually afk in Safe VN(or Safe). don't be shy, come c+h w/ me! :3
 </p>
 <p align="center">
 <p align="center">
