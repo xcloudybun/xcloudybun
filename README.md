@@ -11,7 +11,6 @@
 <p align="center">
 Tks 4 stopping by ♡
 
-</p>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/ed/98/74/ed9874808f04ab54fc2e9370ec6c1ac2.jpg" alt="Banner" width="700">
+  <img src="https://i.pinimg.com/1200x/bd/7e/56/bd7e5601dcb77af2106fe877ea876bad.jpg" width="500" alt="Pastel anime banner">
 </p>
