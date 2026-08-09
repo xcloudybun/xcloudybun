@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=55&pause=2500&color=303038&center=true&vCenter=true&width=600&lines=i+usually+afk+in+Safe+VN" alt="afk">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=55&pause=2500&color=303038&center=true&vCenter=true&width=600&lines=Safe+VN+or+Safe" alt="afk">
 </p>
 <p align="center">
 ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧
