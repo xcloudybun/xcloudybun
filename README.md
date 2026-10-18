@@ -3,14 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=55&pause=2500&color=303038&center=true&vCenter=true&width=600&lines=Safe+VN+or+Safe" alt="afk">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=55&pause=2500&color=303038&center=true&vCenter=true&width=600&lines=~+Safe+VN+~" alt="afk">
 </p>
 <p align="center">
 ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧
 
 
-
-  <p align="center">
-  <img src="https://i.pinimg.com/1200x/bd/7e/56/bd7e5601dcb77af2106fe877ea876bad.jpg" width="500" alt="Pastel anime banner">
-</p>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/34/78/60/347860e1e9b87f9b25269181d8171a3e.jpg" width="400">
 </p>
